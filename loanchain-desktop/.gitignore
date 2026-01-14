@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Electron build outputs (IMPORTANT)
+release/
+dist/
+out/
+
+# Individual large binaries
+*.exe
+*.asar
+*.zip
+*.dmg
+
+# Environment & Logs
+.env
+*.log

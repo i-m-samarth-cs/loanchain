@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+release/
+build/
+out/
+loanchain-desktop/release/
+loanchain-desktop/dist/
+loanchain-desktop/out/
+
+# Large binaries
+*.exe
+*.asar
+*.zip
+*.dmg
+*.msi
+
+# Environment
+.env
+.DS_Store
